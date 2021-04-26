@@ -5,6 +5,8 @@ Transformed the data according to requirements.
 Modified the dashboard on the basis of change in requirements from time to time.
 Results : Simple insights that vividly show how we spend/save money, how net worth is increased over the years, whether we meet our savings goals, etc. all packed in one place!
 
+Tech stack: Power BI
+
 ![](/imgs/1.PNG)
 
 ![](/imgs/2.PNG)
