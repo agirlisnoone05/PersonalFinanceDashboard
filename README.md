@@ -9,8 +9,8 @@ Results : Simple insights that vividly show how we spend/save money, how net wor
 
 ![](/imgs/2.PNG)
 
-![](/imgs/Screenshot (16).png)
+![](/imgs/3.png)
 
-![](/imgs/Screenshot (18).png)
+![](/imgs/4.png)
 
-![](/imgs/Screenshot (19).png)
+![](/imgs/5.png)
